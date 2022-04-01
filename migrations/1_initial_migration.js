@@ -1,3 +1,4 @@
+
 const Migrations = artifacts.require("Migrations");
 const DaiTokenMock = artifacts.require("DaiTokenMock");
 
